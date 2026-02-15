@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/m0nisa/CmakePractice/Practice_CMake2/libs/libcal.a CMakeFiles/cal.dir/Srcs/add.cpp.o CMakeFiles/cal.dir/Srcs/div.cpp.o CMakeFiles/cal.dir/Srcs/mul.cpp.o CMakeFiles/cal.dir/Srcs/sub.cpp.o
+/usr/bin/ranlib /home/m0nisa/CmakePractice/Practice_CMake2/libs/libcal.a

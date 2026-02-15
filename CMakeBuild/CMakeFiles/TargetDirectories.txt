@@ -1,0 +1,14 @@
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/CMakeFiles/edit_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/CMakeFiles/rebuild_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Calcu/CMakeFiles/cal.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Calcu/CMakeFiles/edit_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Calcu/CMakeFiles/rebuild_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Print/CMakeFiles/pri.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Print/CMakeFiles/edit_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Print/CMakeFiles/rebuild_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Test1/CMakeFiles/result1.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Test1/CMakeFiles/edit_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Test1/CMakeFiles/rebuild_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Test2/CMakeFiles/result2.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Test2/CMakeFiles/edit_cache.dir
+/home/m0nisa/CmakePractice/Practice_CMake2/CMakeBuild/Code/Test2/CMakeFiles/rebuild_cache.dir

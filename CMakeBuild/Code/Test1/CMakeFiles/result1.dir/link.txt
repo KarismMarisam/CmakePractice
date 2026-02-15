@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/result1.dir/link.d CMakeFiles/result1.dir/cal.cpp.o -o /home/m0nisa/CmakePractice/Practice_CMake2/bin/result1   -L/home/m0nisa/CmakePractice/Practice_CMake2/libs  -Wl,-rpath,/home/m0nisa/CmakePractice/Practice_CMake2/libs /home/m0nisa/CmakePractice/Practice_CMake2/libs/libcal.a

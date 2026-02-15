@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/m0nisa/CmakePractice/Practice_CMake2/libs/libpri.a CMakeFiles/pri.dir/Srcs/PrintString.cpp.o
+/usr/bin/ranlib /home/m0nisa/CmakePractice/Practice_CMake2/libs/libpri.a
