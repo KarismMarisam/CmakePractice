@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/result.dir/link.d CMakeFiles/result.dir/main.cpp.o -o /home/m0nisa/CmakePractice/Practice_CMake3/result   -L/home/m0nisa/CmakePractice/Practice_CMake3/Libraries  -Wl,-rpath,/home/m0nisa/CmakePractice/Practice_CMake3/Libraries -lCal
